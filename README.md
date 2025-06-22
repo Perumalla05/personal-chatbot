@@ -24,13 +24,14 @@ This project uses **Logistic Regression** and **TF-IDF** for intent classificati
 
 ## 📁 Project Structure
 
-personal-chatbot/
-│
-├── app.py               – Streamlit application logic
-├── intents.json         – Dataset with intents, patterns, and responses
-├── requirements.txt     – Python dependencies
-├── .gitignore           – Ignored files for git
-└── README.md            – Project documentation
+`personal-chatbot/` folder:
+
+* `app.py`
+* `intents.json`
+* `requirements.txt`
+* `.gitignore`
+* `README.md`
+
 
 ---
 
